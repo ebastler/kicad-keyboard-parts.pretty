@@ -6,6 +6,7 @@ Various components I used in my keyboard designs.
  * TP4056 - 1S LiIon linear battery charge/protection IC
  * DW01A - 1S LiIon protection IC
  * FS8205 - Dual MOSFET to be used with the DW01A
+ * XC6206PxxxMR - 3.3V LDO
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
