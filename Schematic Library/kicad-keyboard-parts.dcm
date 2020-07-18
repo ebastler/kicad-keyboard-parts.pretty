@@ -18,4 +18,8 @@ K battery charging li-ion li-po
 F https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf
 $ENDCMP
 #
+$CMP XC6206PxxxMR-Regulator_Linear
+F https://www.torexsemi.com/file/xc6206/XC6206.pdf
+$ENDCMP
+#
 #End Doc Library
