@@ -16,3 +16,4 @@ Various components I used in my keyboard designs.
  * WS2812 Mini / SK6812 Mini ([source](https://grabcad.com/library/smd-ws2812b-led-1))
  * Alps SKQG style SMD switch ([source](https://grabcad.com/library/5mm-button-switch-1))
  * 1206 SMD polyfuse ([source](https://grabcad.com/library/0zcj0075af2e-1))
+ * HRO TYPE-C-31-M-12 ([source](https://grabcad.com/library/type-c-31-m-12-1))
