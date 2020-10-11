@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP DW01A
-D One cell Li-Ion/Po battery protection OC
+D Single cell Li-Ion/Po battery protection IC
 K li-ion li-po battery protection
 F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-DW01A-G_C61503.pdf
 $ENDCMP
@@ -13,13 +13,21 @@ F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-FS8205_C32254.pdf
 $ENDCMP
 #
 $CMP TP4056
-D A Standalone Linear Li-lon Battery Charger with Thermal Regulation in SOP-8
+D Standalone Linear Li-lon Battery Charger with Thermal Protection
 K battery charging li-ion li-po
 F https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf
 $ENDCMP
 #
 $CMP XC6206PxxxMR-Regulator_Linear
+D SMD LDO regulator family
+K LDO voltage regulator
 F https://www.torexsemi.com/file/xc6206/XC6206.pdf
+$ENDCMP
+#
+$CMP nRF52840_holyiot_18010
+D nRF52840 BT LE module
+K Bluetooth LE nRF nordic
+F http://www.holyiot.com/tp/2019042516322180424.pdf
 $ENDCMP
 #
 #End Doc Library
