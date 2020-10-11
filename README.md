@@ -6,10 +6,13 @@ Various components I used in my keyboard designs.
  * TP4056 - 1S LiIon linear battery charge/protection IC
  * DW01A - 1S LiIon protection IC
  * FS8205 - Dual MOSFET to be used with the DW01A
- * XC6206PxxxMR - 3.3V LDO
+ * XC6206PxxxMR - LDO
+ * nRF52840_holyiot_18010 - nRF52840 module from holyiot
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
+ * nRF52840_holyiot_18010 - nRF52840 module from holyiot (through-hole pads to solder bottom-pads)
+ * nRF52840_holyiot_18010_cast - nRF52840 module from holyiot (pcb cutout + castellated pads to solder bottom-pads)
 
  ### 3D Models
  * JST SH (2, 4, 5, 6, 8 pins) ([source](https://grabcad.com/library/jst-sh-smd-connectors-1/details?folder_id=3903823))
