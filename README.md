@@ -21,3 +21,4 @@ Various components I used in my keyboard designs.
  * 1206 SMD polyfuse ([source](https://grabcad.com/library/0zcj0075af2e-1))
  * HRO TYPE-C-31-M-12 ([source](https://grabcad.com/library/type-c-31-m-12-1))
  * ECE ESP3020
+ * holyiot 18010 nRF52840 (thanks darryldh)
