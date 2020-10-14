@@ -18,6 +18,12 @@ K battery charging li-ion li-po
 F https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf
 $ENDCMP
 #
+$CMP TXB0101
+D 1-Bit Bidirectional Voltage-Level Translator
+K Level-Shifter CMOS-TTL-Translation
+F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TXB0101DCKR_C324081.pdf
+$ENDCMP
+#
 $CMP XC6206PxxxMR-Regulator_Linear
 D SMD LDO regulator family
 K LDO voltage regulator

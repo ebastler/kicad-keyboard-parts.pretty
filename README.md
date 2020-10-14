@@ -8,6 +8,7 @@ Various components I used in my keyboard designs.
  * FS8205 - Dual MOSFET to be used with the DW01A
  * XC6206PxxxMR - LDO
  * nRF52840_holyiot_18010 - nRF52840 module from holyiot
+ * TXB0101 - 1-Bit bidirectional levelshifter
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
