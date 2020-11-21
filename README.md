@@ -23,3 +23,4 @@ Various components I used in my keyboard designs.
  * HRO TYPE-C-31-M-12 ([source](https://grabcad.com/library/type-c-31-m-12-1))
  * ECE ESP3020
  * holyiot 18010 nRF52840 (thanks darryldh)
+ * Alps EC11E and EC11N series 3D models ([source] (https://tech.alpsalpine.com/e/products/cad.html))
