@@ -24,6 +24,12 @@ K Level-Shifter CMOS-TTL-Translation
 F https://datasheet.lcsc.com/szlcsc/Texas-Instruments-TI-TXB0101DCKR_C324081.pdf
 $ENDCMP
 #
+$CMP WS2812B-MINI
+D RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+F https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+$ENDCMP
+#
 $CMP XC6206PxxxMR-Regulator_Linear
 D SMD LDO regulator family
 K LDO voltage regulator

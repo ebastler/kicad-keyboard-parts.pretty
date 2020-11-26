@@ -9,6 +9,7 @@ Various components I used in my keyboard designs.
  * XC6206PxxxMR - LDO
  * nRF52840_holyiot_18010 - nRF52840 module from holyiot
  * TXB0101 - 1-Bit bidirectional levelshifter
+ * WS2812B-MINI (to be used with KiCAD base SK6812MINI footprint)
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
