@@ -11,6 +11,7 @@ Various components I used in my keyboard designs.
  * TXB0101 - 1-Bit bidirectional levelshifter
  * WS2812B-MINI (to be used with KiCAD base SK6812MINI footprint)
  * MX_LED - a symbol to be used with ai03s MX keyswitch lib, offering split symbols for LED and switch for cleaner matrix drawing
+ * BAV70_Small - smaller symbol to the BAV70 common cathode diode for better use in a switch matrix
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
