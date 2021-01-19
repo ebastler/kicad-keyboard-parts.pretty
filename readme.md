@@ -20,6 +20,7 @@ Various components I used in my keyboard designs.
  * nRF52840_holyiot_18010_HS_all - nRF52840 module from holyiot. Hole in PCB + pads up to the PCB edge to solder bottom pads from the other side. Currently untested - use at you own risk (and please report back to me if you do)
 
  ### 3D Models
+ Note: If you put the submodule directly into your kicad project folder, all custom footprints have working 3D model file paths.
  * JST SH (2, 4, 5, 6, 8 pins) ([source](https://grabcad.com/library/jst-sh-smd-connectors-1/details?folder_id=3903823))
  * WS2812 Mini / SK6812 Mini ([source](https://grabcad.com/library/smd-ws2812b-led-1))
  * Alps SKQG style SMD switch ([source](https://grabcad.com/library/5mm-button-switch-1))
