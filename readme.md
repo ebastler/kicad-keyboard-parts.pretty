@@ -15,8 +15,9 @@ Various components I used in my keyboard designs.
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
- * nRF52840_holyiot_18010 - nRF52840 module from holyiot (through-hole pads to solder bottom-pads)
- * nRF52840_holyiot_18010_cast - nRF52840 module from holyiot (pcb cutout + castellated pads to solder bottom-pads)
+ * nRF52840_holyiot_18010 - nRF52840 module from holyiot. Bottom IO only solderable with reflow.
+ * nRF52840_holyiot_18010_HS_simple - nRF52840 module from holyiot. Bottom pads removed.
+ * nRF52840_holyiot_18010_HS_all - nRF52840 module from holyiot. Hole in PCB + pads up to the PCB edge to solder bottom pads from the other side. Currently untested - use at you own risk (and please report back to me if you do)
 
  ### 3D Models
  * JST SH (2, 4, 5, 6, 8 pins) ([source](https://grabcad.com/library/jst-sh-smd-connectors-1/details?folder_id=3903823))
