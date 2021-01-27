@@ -29,3 +29,4 @@ Various components I used in my keyboard designs.
  * ECE ESP3020
  * holyiot 18010 nRF52840 (thanks darryldh)
  * Alps EC11E and EC11N series 3D models ([source] (https://tech.alpsalpine.com/e/products/cad.html))
+ * Kailh hotswap socket 3D model ([source] (https://grabcad.com/library/kailh-hotswap-mx-1))
