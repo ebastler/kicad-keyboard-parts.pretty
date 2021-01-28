@@ -1,4 +1,4 @@
-18823917918375391
+18827155598740391
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -81794,6 +81794,20 @@ slide switch smd ece
 0
 3
 3
+kicad-keyboard-parts
+MX_SK6812mini-e
+Add-on for regular MX-footprints with SK6812 Mini-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+kicad-keyboard-parts
+MX_SK6812mini-e_REV
+Add-on for regular MX-footprints with SK6812 Mini-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
 kicad-keyboard-parts
 R_0402_1005Metric_stealth
 Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator

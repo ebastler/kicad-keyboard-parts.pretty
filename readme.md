@@ -18,6 +18,8 @@ Various components I used in my keyboard designs.
  * nRF52840_holyiot_18010 - nRF52840 module from holyiot. Bottom IO only solderable with reflow.
  * nRF52840_holyiot_18010_HS_simple - nRF52840 module from holyiot. Bottom pads removed.
  * nRF52840_holyiot_18010_HS_all - nRF52840 module from holyiot. Hole in PCB + pads up to the PCB edge to solder bottom pads from the other side. Currently untested - use at you own risk (and please report back to me if you do)
+ * MX_SK6812mini-e - SK6812 Mini-E (reverse mount) RGB LED add-on intended to be used with any regular MX switch footprint like ai03's lib
+ * MX_SK6812mini-e_REV - Same as above, but with 180° rotated LED
 
  ### 3D Models
  Note: If you put the submodule directly into your kicad project folder, all custom footprints have working 3D model file paths.
