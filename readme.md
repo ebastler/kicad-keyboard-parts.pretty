@@ -12,14 +12,15 @@ Various components I used in my keyboard designs.
  * WS2812B-MINI (to be used with KiCAD base SK6812MINI footprint)
  * MX_LED - a symbol to be used with ai03s MX keyswitch lib, offering split symbols for LED and switch for cleaner matrix drawing
  * BAV70_Small - smaller symbol to the BAV70 common cathode diode for better use in a switch matrix
+ * SK6812MINI-E - symbol for SK6812MINI-E (different pin order than regular MINI)
 
 ### Footprints
  * ECE ESP3020 - Vertical SMD slide-switch, 20V 0.5A
  * nRF52840_holyiot_18010 - nRF52840 module from holyiot. Bottom IO only solderable with reflow.
  * nRF52840_holyiot_18010_HS_simple - nRF52840 module from holyiot. Bottom pads removed.
  * nRF52840_holyiot_18010_HS_all - nRF52840 module from holyiot. Hole in PCB + pads up to the PCB edge to solder bottom pads from the other side. Currently untested - use at you own risk (and please report back to me if you do)
- * MX_SK6812mini-e - SK6812 Mini-E (reverse mount) RGB LED add-on intended to be used with any regular MX switch footprint like ai03's lib
- * MX_SK6812mini-e_REV - Same as above, but with 180° rotated LED
+ * MX_SK6812MINI-E - SK6812 MINI-E (reverse mount) RGB LED add-on intended to be used with any regular MX switch footprint like ai03's lib
+ * MX_SK6812MINI-E_REV - Same as above, but with 180° rotated LED
 
  ### 3D Models
  Note: If you put the submodule directly into your kicad project folder, all custom footprints have working 3D model file paths.

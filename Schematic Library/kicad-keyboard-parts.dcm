@@ -18,6 +18,12 @@ K dual n-channel mosfet
 F https://datasheet.lcsc.com/szlcsc/Fortune-Semicon-FS8205_C32254.pdf
 $ENDCMP
 #
+$CMP SK6812MINI-E
+D Reverse-mount RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+F https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+$ENDCMP
+#
 $CMP TP4056
 D Standalone Linear Li-lon Battery Charger with Thermal Protection
 K battery charging li-ion li-po
