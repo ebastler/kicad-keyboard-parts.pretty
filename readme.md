@@ -25,7 +25,8 @@ Various components I used in my keyboard designs.
  ### 3D Models
  Note: If you put the submodule directly into your kicad project folder, all custom footprints have working 3D model file paths.
  * JST SH (2, 4, 5, 6, 8 pins) ([source](https://grabcad.com/library/jst-sh-smd-connectors-1/details?folder_id=3903823))
- * WS2812 Mini / SK6812 Mini ([source](https://grabcad.com/library/smd-ws2812b-led-1))
+ * WS2812B-MINI / SK6812MINI ([source](https://grabcad.com/library/smd-ws2812b-led-1))
+ * SK6812MINI-E
  * Alps SKQG style SMD switch ([source](https://grabcad.com/library/5mm-button-switch-1))
  * 1206 SMD polyfuse ([source](https://grabcad.com/library/0zcj0075af2e-1))
  * HRO TYPE-C-31-M-12 ([source](https://grabcad.com/library/type-c-31-m-12-1))
