@@ -1,6 +1,10 @@
 # kicad-keyboard-parts.pretty
 
-Various components I used in my keyboard designs.
+## This repository is deprecated and will not be updated. It has been replaced by [marbastlib](https://github.com/ebastler/marbastlib).
+Marbastlib features more components, uses the KiCAD 6.0 library formats, and is frequently updated in collaboration with 
+[MarvFPV](https://github.com/marvfpv). Some of the new footprints: A full library of Cherry MX and Kailh Choc footprints (hotswap and regular, incl. stabilizers), revmount common anode RGB LEDs, WS2812B_2020, HRO Type-C M14 mid-mount-USB connectors and more.
+
+This library will remain untouched in order not to break projects that depend on it, but I would recommend switching to our new library for upcoming designs. If you find any errors, please report them to me - I will still fix errors in this library.
 
 ### Symbols:
  * TP4056 - 1S LiIon linear battery charge/protection IC
@@ -32,5 +36,5 @@ Various components I used in my keyboard designs.
  * HRO TYPE-C-31-M-12 ([source](https://grabcad.com/library/type-c-31-m-12-1))
  * ECE ESP3020
  * holyiot 18010 nRF52840 (thanks darryldh)
- * Alps EC11E and EC11N series 3D models ([source] (https://tech.alpsalpine.com/e/products/cad.html))
- * Kailh hotswap socket 3D model ([source] (https://grabcad.com/library/kailh-hotswap-mx-1))
+ * Alps EC11E and EC11N series 3D models ([source](https://tech.alpsalpine.com/e/products/cad.html))
+ * Kailh hotswap socket 3D model ([source](https://grabcad.com/library/kailh-hotswap-mx-1))
